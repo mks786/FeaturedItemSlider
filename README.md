@@ -1,5 +1,4 @@
 #Featured Item Slider
-===
 
 NimblePros created a Feature Item Slider Module for Orchard CMS, but it hasn't been updated to work with Orchard 1.7 and the Media Library.
 
