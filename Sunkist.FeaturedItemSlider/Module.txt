@@ -1,0 +1,9 @@
+Name: Featured Item Slider
+AntiForgery: enabled
+Author: NimblePros, David Hayden
+Website: https://github.com/sunkist/FeaturedItemSlider
+Version: 3.0
+OrchardVersion: 1.7
+Description: Adds a new content type called FeaturedItem, which includes an image and a headline, and optionally a sub-headline and link URL. Also includes a FeaturedItemsWidget for displaying the featured items using the jQuery Cycle plugin.
+Category: Widget
+Dependencies: Orchard.Fields, Orchard.MediaLibrary
